@@ -2,7 +2,8 @@
 This repository contains code to reproduce the papers results
 
 ## Library Dependencies
-To run our code, we developed it using Python 3.9.18. You can install the remaining dependencies by executing the following command:
+To run our code, we recommand using a Python 3.9.18 virtual environment using the following dependencies.
+More details are provided in the archive.
 ```bash
 pip install -r requirements.txt
 ```
