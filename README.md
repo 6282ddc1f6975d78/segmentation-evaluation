@@ -1,6 +1,8 @@
 # Toward Interpretable Evaluation Measures for Time Series Segmentation
 This repository contains code to reproduce the papers results
 
+Disclaimer: this is a temporary repository for anonymous submission. If accepted, we will provide a detailed and structured open source repository.
+
 ## Library Dependencies
 To run our code, we recommand using a Python 3.9.18 virtual environment using the following dependencies.
 More details are provided in the archive.
