@@ -18,17 +18,12 @@ You can download the datasets used in the paper from the following links:
 | PAMAP2| Real-world | [download](https://drive.google.com/file/d/11zwi7PwJiRujncT7kt0NOGOo_GavSSo2/view?usp=sharing) |
 | UscHad| Real-world | [download](https://drive.google.com/file/d/1kBHPZZCCN1zrZd7CoSGzG3_W0Jdsm9kF/view?usp=sharing) |
 | UcrSeg| Real-world | [download](https://drive.google.com/file/d/1nGH-l3tkp18SauzUUR6P0FhlhEQDLTu2/view?usp=sharing) |
-| Synthetic | Synthetic | [download](https://drive.google.com/file/d/1C6Pl58O-un4DUPdzqC9PKs09wQi8knYx/view?usp=sharing) |
 
 After downloading the datasets, move them to the '\data' directory, ensuring the following directory structure:
 
 ```
 .
 ├── data
-│   ├── synthetic
-│   │   ├── test0.csv
-│   │   ├── test1.csv
-│   │   ├── ...
 │   ├── ActRecTut
 │   │   ├── subject1_walk
 │   │   │   ├── S111.dat
@@ -67,7 +62,6 @@ This work leverages the [E2USd](https://github.com/AI4CTS/E2Usd/tree/main/Baseli
 
 Our gratitude extends to the authors of the following studies for making their datasets publicly available:
 - [UCRSEG](https://doi.org/10.1109/ICDM.2017.21)
-- [Synthetic](https://dl.acm.org/doi/abs/10.1145/3588697)
 - [MoCap](https://dl.acm.org/doi/abs/10.1145/2588555.2588556)
 - [ActRecTut](https://dl.acm.org/doi/abs/10.1145/2499621)
 - [PAMAP2](https://doi.org/10.1109/ISWC.2012.13)
